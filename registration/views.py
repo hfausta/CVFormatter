@@ -10,4 +10,3 @@ def index(request):
 	
 def register(request):
 	return HttpResponse("Registration page")
-	
